@@ -1,0 +1,6 @@
+{
+  "name": "Spotific",
+  "description": "Stream your favorite music with seamless background playback, search, lyrics, offline downloads, and electric blue styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
